@@ -1,0 +1,2 @@
+C:\Users\Daya\AppData\Local\Temporary Projects\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Documentos Dayanne\Github_VB\Proyecto_Jarvis_C#\CapaPresentacion\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
